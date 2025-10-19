@@ -1,6 +1,6 @@
 # function, if-else
 
-# function
+-- function
 -- reusable code enclosed by paranthesis and name
 
 function printHello(){
@@ -17,3 +17,18 @@ function printHello(name){
 printHello("jishnu")                        => function calling with argument(actual value)
 
 -- in the function declaration parameter is used and while calling argument is used
+
+
+## loops
+-- for and while loops
+    -- for(initialization; condition; updation)
+        -- if we didnt put a proper condition then it will moves to infinit loop
+
+
+## while loop
+initialize variable
+while(condition){
+    code here
+    updation
+}
+
