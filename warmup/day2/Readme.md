@@ -32,3 +32,5 @@ while(condition){
     updation
 }
 
+=> Javascript have Infinity and -Infinity
+
