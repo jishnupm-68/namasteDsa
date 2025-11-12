@@ -15,3 +15,12 @@ function LinkedList(){
     this.head = null;
     this.size = 0;
 }
+
+
+# day 25
+
+____Part 2____
+> Adding nodes to the linked list
+    > at head
+    > at tail
+    > at any index
