@@ -24,3 +24,10 @@ ____Part 2____
     > at head
     > at tail
     > at any index
+
+
+# day 26
+
+____Part 3____
+> get the element from the given index
+> Deleting node in linked list
