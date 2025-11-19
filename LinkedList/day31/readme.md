@@ -1,6 +1,6 @@
 # day 31
 
-Leetcode problem no: , palindrome linked list
+Leetcode problem no: 234 , palindrome linked list
 
 solution 1: convert to array and check for palindrome
 time complexity: O(n), space complexity : O(n)
